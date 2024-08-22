@@ -14,7 +14,14 @@
 </center>
 
 ## About me 🙋‍♂️ : 
-<img src="https://media.giphy.com/media/HZEvIN2lNUaOITLe6a/giphy.gif" alt="GIF" width="100%">
+Hi there, I'm Chandrashekar 👋
+I'm a passionate Front-End Developer with a keen focus on building dynamic and responsive web applications using React. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My goal is to create seamless user experiences that not only meet but exceed expectations.
+
+What I do:
+
+React Development: Building scalable, high-performance applications using React and modern JavaScript frameworks.
+UI/UX Design: Crafting clean and engaging interfaces with a focus on user experience.
+Continuous Learning: Always exploring the latest trends and technologies in front-end development to stay ahead of the curve.
 
  ```javascript
 
@@ -22,8 +29,8 @@
         I.am       = "A positive, enthusiastic and competent Web Developer" ;
         I.favQuote = "Questioning the fabric of reality is not an act of defiance, but a courageous pursuit of uncovering the hidden truths that shape our existence." ;
         I.believe  = "The universe speaks through vibrations; listen closely, and you'll find your place within its symphony."
-        I.usedTo   = ["study Physics", "Teach Physics", "Run Marathon"] ;
-        I.love     = ["Familly", "Coding", "My-Laptop", ["BasketBall ","Travelling","Camping"], ['life', 'The Universe']] ;
+        I.usedTo   = ["walk", "Teach Physics", "Run Marathon"] ;
+        I.love     = ["Familly", "Coding", "My-Laptop", ["Cricket ","Travelling","movies"], ['life', 'The Universe']] ;
         I.workWith = ["Good People",["JavaScript", "React Js", "Angular", "ngrx"], ["CSS","Tailwindcss","Bootstrap"], "Docker"] ;
         I.try      = "EveryDay To Be the best version of Myself ." ;
  ```
@@ -53,16 +60,15 @@
        <table  style="color:bleu;">
 <tbody>
 <tr style="height: 22px;">
-<td style="height: 22px;">ToDo React Js</td>
-<td style="height: 22px;">ToDo Vue Js</td>
-<td style="height: 22px;">NewYearCounter React Js</td>
-<td style="height: 22px;">QR-Generator React Js</td>
+<!-- <td style="height: 22px;"></td> -->
+<td style="height: 22px;">HealthCare application</td>
+<td style="height: 22px;">Food ordering application</td>
+<td style="height: 22px;">portfolio application</td>
 </tr>
 <tr style="height: 22px;">
-  <td style="height: 22px;">https://dotodone.surge.sh/</td>
-  <td style="height: 22px;">https://todoschedule.surge.sh/</td>
-<td style="height: 22px;">https://newyearyoucode.surge.sh/</td>
-  <td style="height: 22px;">https://qr-codegenerator.surge.sh/</td>
+  <td style="height: 22px;">https://portfolio./</td>
+  <td style="height: 22px;">https://food-app./</td>
+<td style="height: 22px;">https://portfolio./</td>
 </tr>
 </tbody>
 </table>
