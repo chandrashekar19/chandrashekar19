@@ -29,7 +29,7 @@ Continuous Learning: Always exploring the latest trends and technologies in fron
         I.am       = "A positive, enthusiastic and competent Web Developer" ;
         I.favQuote = "Questioning the fabric of reality is not an act of defiance, but a courageous pursuit of uncovering the hidden truths that shape our existence." ;
         I.believe  = "The universe speaks through vibrations; listen closely, and you'll find your place within its symphony."
-        I.usedTo   = ["walk", "Teach Physics", "Run Marathon"] ;
+        I.usedTo   = ["walk", "Read", "Run"] ;
         I.love     = ["Familly", "Coding", "My-Laptop", ["Cricket ","Travelling","movies"], ['life', 'The Universe']] ;
         I.workWith = ["Good People",["JavaScript", "React Js", "Angular", "ngrx"], ["CSS","Tailwindcss","Bootstrap"], "Docker"] ;
         I.try      = "EveryDay To Be the best version of Myself ." ;
