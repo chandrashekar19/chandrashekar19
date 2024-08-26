@@ -27,7 +27,7 @@ Continuous Learning: Always exploring the latest trends and technologies in fron
 
  const I    = {} ; 
         I.am       = "A positive, enthusiastic and competent Web Developer" ;
-        I.favQuote = "Questioning the fabric of reality is not an act of defiance, but a courageous pursuit of uncovering the hidden truths that shape our existence." ;
+        I.favQuote = "Remember who you are, don't let anyone convince you otherwise" ;
         I.believe  = "The universe speaks through vibrations; listen closely, and you'll find your place within its symphony."
         I.usedTo   = ["walk", "Read", "Run"] ;
         I.love     = ["Familly", "Coding", "My-Laptop", ["Cricket ","Travelling","movies"], ['life', 'The Universe']] ;
