@@ -1,6 +1,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" width="1000" height="500"/>
 
 <div id="header" align="center">
+
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Welcome+To+my+Github+👨🏽‍💻)](https://git.io/typing-svg) 
   
@@ -45,10 +47,11 @@ Continuous Learning: Always exploring the latest trends and technologies in fron
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/next.png"></code>
+
 
 ##
 
@@ -61,6 +64,7 @@ Continuous Learning: Always exploring the latest trends and technologies in fron
 <tbody>
 <tr style="height: 22px;">
 <!-- <td style="height: 22px;"></td> -->
+<!--   <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
 <td style="height: 22px;">HealthCare application</td>
 <td style="height: 22px;">Food ordering application</td>
 <td style="height: 22px;">portfolio application</td>
