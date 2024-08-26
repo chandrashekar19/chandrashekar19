@@ -63,7 +63,6 @@ Continuous Learning: Always exploring the latest trends and technologies in fron
        <table  style="color:bleu;">
 <tbody>
 <tr style="height: 22px;">
-<!-- <td style="height: 22px;"></td> -->
 <!--   <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
 <td style="height: 22px;">HealthCare application</td>
 <td style="height: 22px;">Jobster application</td>
