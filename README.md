@@ -66,12 +66,12 @@ Continuous Learning: Always exploring the latest trends and technologies in fron
 <!--   <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
 <td style="height: 22px;">HealthCare application</td>
 <td style="height: 22px;">Jobster application</td>
-<td style="height: 22px;">portfolio application</td>
+<td style="height: 22px;">admin dashboard</td>
 </tr>
 <tr style="height: 22px;">
   <td style="height: 22px;">https://health-care-amber.vercel.app</td>
   <td style="height: 22px;">https://web-job.netlify.app/landing</td>
-<td style="height: 22px;">https://portfolio./</td>
+<td style="height: 22px;">https://features-webapp.netlify.app/</td>
 </tr>
 </tbody>
 </table>
