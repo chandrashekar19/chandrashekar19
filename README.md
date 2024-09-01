@@ -29,7 +29,8 @@ Continuous Learning: Always exploring the latest trends and technologies in fron
 
  const I    = {} ; 
         I.am       = "a Front End Developer" ;
-        I.believe  = "The universe speaks through vibrations; listen closely, and you'll find your place within its symphony."
+        I.believe  = "The universe speaks through vibrations; listen closely,
+                       and you'll find your place within its symphony."
         I.usedTo   = ["walk", "Read", "Run"] ;
         I.love     = ["Family", "Coding", "My-Laptop", ["Cricket ","Travelling","movies"], ['life', 'The Universe']] ;
         I.workWith = ["Good People",["JavaScript", "typescript" "React Js", "Angular", "Next Js"],
