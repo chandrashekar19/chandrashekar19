@@ -32,7 +32,8 @@ Continuous Learning: Always exploring the latest trends and technologies in fron
         I.believe  = "The universe speaks through vibrations; listen closely,
                        and you'll find your place within its symphony."
         I.usedTo   = ["walk", "Read", "Run"] ;
-        I.love     = ["Family", "Coding", "My-Laptop", ["Cricket ","Travelling","movies"], ['life', 'The Universe']] ;
+        I.love     = ["Family", "Coding", "My-Laptop", ["Cricket ","Travelling","movies"],
+                     ['life', 'The Universe']] ;
         I.workWith = ["Good People",["JavaScript", "typescript" "React Js", "Angular", "Next Js"],
                      ["CSS","Tailwindcss","Bootstrap", "Material UI"], "Docker"] ;
         I.try      = "EveryDay To Be the best version of Myself ." ;
