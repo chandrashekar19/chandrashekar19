@@ -33,8 +33,8 @@ Continuous Learning: Always exploring the latest trends and technologies in fron
                        and you'll find your place within its symphony."
         I.usedTo   = ["walk", "Read", "Run"] ;
         I.love     = ["Family", "Coding", "My-Laptop", ["Cricket ","Travelling","movies"];
-        I.workWith = ["Good People",["JavaScript", "typescript" "React Js", "Angular", "Next Js"],
-                     ["CSS","Tailwindcss","Bootstrap", "Material UI"], "Docker"] ;
+        I.workWith = ["Good People",["JavaScript", "typescript" "React Js", "Angular",
+                     "Next Js"],["CSS","Tailwindcss","Bootstrap", "Material UI"], "Docker"] ;
         I.try      = "EveryDay To Be the best version of Myself ." ;
  ```
 ## 
