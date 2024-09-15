@@ -35,7 +35,7 @@ Continuous Learning: Always exploring the latest trends and technologies in fron
         I.love     = ["Family", "Coding", "My-Laptop", ["Cricket ","Travelling","movies"];
         I.workWith = ["Good People",["JavaScript", "typescript" "React Js", "Angular",
                      "Next Js"],["CSS","Tailwindcss","Bootstrap", "Material UI"], "Docker"] ;
-        I.try      = "EveryDay To Be the best version of Myself ." ;
+        I.try      = "Every day is an opportunity to refine and elevate who I am." ;
  ```
 ## 
 <a href="#"><img align="left" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="26%" style="border-radius: 3(px;" /></a>
@@ -68,11 +68,13 @@ Continuous Learning: Always exploring the latest trends and technologies in fron
 <td style="height: 22px;">HealthCare application</td>
 <td style="height: 22px;">Jobster application</td>
 <td style="height: 22px;">admin dashboard</td>
+<td style="height: 22px;">nike landing page</td>
 </tr>
 <tr style="height: 22px;">
   <td style="height: 22px;">https://health-care-amber.vercel.app</td>
   <td style="height: 22px;">https://web-job.netlify.app/landing</td>
-<td style="height: 22px;">https://features-webapp.netlify.app/</td>
+  <td style="height: 22px;">https://features-webapp.netlify.app/</td>
+  <td style="height: 22px;">https://nike-landing-page-eight-plum.vercel.app/</td>
 </tr>
 </tbody>
 </table>
