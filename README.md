@@ -16,15 +16,27 @@
 </center>
 
 ## About me 🙋‍♂️ : 
-Hi there, I'm Chandrashekar 👋
-I'm a passionate Front-End Developer with a keen focus on building dynamic and responsive web applications using React. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My goal is to create seamless user experiences that not only meet but exceed expectations.
+🌟 Front-End Developer | Crafting Dynamic, User-Centric Web Applications 🌟
 
-What I do:
+With 2 years of front-end development experience, I enjoy turning design ideas and wireframes into interactive and responsive web applications. I’m passionate about writing code that’s clean, easy to maintain, and focused on delivering a great user experience.
 
-React Development: Building scalable, high-performance applications using React and modern JavaScript frameworks.
-UI/UX Design: Crafting clean and engaging interfaces with a focus on user experience.
-Continuous Learning: Always exploring the latest trends and technologies in front-end development to stay ahead of the curve.
+💡 What I Bring to the Table:
 
+⚛️ React JS & Next.js – Expert in building dynamic and scalable applications.
+
+🧑‍💻 JavaScript (ES6+) & TypeScript – Strong in writing clean and type-safe code.
+
+🎨 HTML5 & CSS3 – Mastery in crafting responsive layouts with modern web standards.
+
+🌈 Tailwind CSS & Material UI – Styling with a balance of creativity and functionality.
+
+🛠️ Redux Toolkit , Context API and Zustand – For state management and complex app architecture.
+
+🔄 Version Control (Git) – Ensuring smooth collaboration and code quality.
+
+I’m always up for a challenge and love diving into new tools, libraries, and techniques to keep my skills sharp. Whether it's hooking up APIs, fine-tuning performance, or adding little details that make a big difference, I’m all about delivering top-notch results and making things awesome. 🚀
+
+Let’s connect and explore opportunities to create outstanding digital experiences together! 🌐✨
  ```javascript
 
  const I    = {} ; 
