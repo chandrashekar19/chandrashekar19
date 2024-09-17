@@ -18,23 +18,25 @@
 ## About me 🙋‍♂️ : 
 🌟 Front-End Developer | Crafting Dynamic, User-Centric Web Applications 🌟
 
-With 2 years of front-end development experience, I enjoy turning design ideas and wireframes into interactive and responsive web applications. I’m passionate about writing code that’s clean, easy to maintain, and focused on delivering a great user experience.
+With 2 years of front-end development experience, I enjoy turning design ideas and wireframes into interactive and responsive web applications. I’m passionate building good user interfaces.
 
-💡 What I Bring to the Table:
+💡 My Tech Stack Includes :
 
-⚛️ React JS & Next.js – Expert in building dynamic and scalable applications.
+      React JS & Next.js
 
-🧑‍💻 JavaScript (ES6+) & TypeScript – Strong in writing clean and type-safe code.
+    🧑‍💻 JavaScript (ES6+) & TypeScript .
 
-🎨 HTML5 & CSS3 – Mastery in crafting responsive layouts with modern web standards.
+    🎨 HTML5 & CSS3
 
-🌈 Tailwind CSS & Material UI – Styling with a balance of creativity and functionality.
+    🌈 Tailwind CSS & Material UI 
 
-🛠️ Redux Toolkit , Context API and Zustand – For state management and complex app architecture.
+    🛠️ Redux Toolkit , Context API and Zustand 
 
-🔄 Version Control (Git) – Ensuring smooth collaboration and code quality.
+    🔄 Version Control (Git) – Ensuring smooth collaboration and code quality.
 
-I’m always up for a challenge and love diving into new tools, libraries, and techniques to keep my skills sharp. Whether it's hooking up APIs, fine-tuning performance, or adding little details that make a big difference, I’m all about delivering top-notch results and making things awesome. 🚀
+    🔗 GITHUB Link : https://github.com/chandrashekar19
+
+I love diving into new tools, libraries, and techniques to keep my skills sharp. Whether it's hooking up APIs, fine-tuning performance, or adding little details that make a big difference . 🚀
 
 Let’s connect and explore opportunities to create outstanding digital experiences together! 🌐✨
  ```javascript
