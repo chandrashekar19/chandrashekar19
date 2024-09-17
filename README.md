@@ -22,7 +22,7 @@ With 2 years of front-end development experience, I enjoy turning design ideas a
 
 💡 My Tech Stack Includes :
 
-      React JS & Next.js
+    ⚛️  React JS & Next.js
 
     🧑‍💻 JavaScript (ES6+) & TypeScript .
 
