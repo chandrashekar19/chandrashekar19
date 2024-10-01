@@ -33,8 +33,6 @@ With 2 years of front-end development experience, I enjoy turning design ideas a
 
     🔄 Version Control (Git) – Ensuring smooth collaboration and code quality.
 
-    🔗 GITHUB Link : https://github.com/chandrashekar19
-
 I love diving into new tools, libraries, and techniques to keep my skills sharp. Whether it's hooking up APIs, fine-tuning performance, or adding little details that make a big difference . 🚀
 
 Let’s connect and explore opportunities to create outstanding digital experiences together! 🌐✨
