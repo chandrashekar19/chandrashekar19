@@ -46,7 +46,7 @@ Let’s connect and explore opportunities to create outstanding digital experien
         I.love     = ["Family", "Coding", "My-Laptop", ["Cricket ","Travelling","movies"];
         I.workWith = ["Good People",["JavaScript", "typescript" "React Js", "Angular",
                      "Next Js"],["CSS","Tailwindcss","Bootstrap", "Material UI"], "Docker"] ;
-        I.try      = "Every day is an opportunity to refine and elevate who I am." ;
+
  ```
 ## 
 <a href="#"><img align="left" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="26%" style="border-radius: 3(px;" /></a>
