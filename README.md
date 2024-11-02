@@ -24,9 +24,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekar19&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=chandrashekar19&theme=react-dark)
 
-## Let’s connect and explore opportunities to create outstanding digital experiences together! 🌐✨
+## Let’s connect and explore opportunities and experiences together! 🌐✨
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chandrashekar19/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chandrashekar19/)&nsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalalshannu19@gmail.com)
 
 
