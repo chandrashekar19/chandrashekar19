@@ -64,6 +64,5 @@ Technologies and Tools I use:
 -  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrashekar19/)
 - #### 📫 Email   : kalalshannu19@gmail.com
 
-  <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrashekar19&show_icons=true&theme=tokyonight)
