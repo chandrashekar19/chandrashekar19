@@ -1,8 +1,4 @@
 
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandrashekar19)
-
-
 # Hi, I'm Chandrashekar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 🔭 I’m currently working as **Software Engineer**
@@ -17,13 +13,13 @@
 
 ## My Skills - Technologies I use
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,jest,git,github,vercel,netlify)
-![My Skills](https://skillicons.dev/icons?i=html,css,supabase,sass,firebase,gulp,heroku,mysql,bootstrap,vscode,bash,redis,figma,threejs,linux)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,jest,git,github,vercel,netlify)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,firebase,heroku,mysql,bootstrap,vscode,bash,figma,threejs,linux)
 
 ## 🏆 Github Status
 
 <img  src="https://github-stats-lemon.vercel.app/api?username=chandrashekar19&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=adrianhajdin&theme=tokyonight" width="48%">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekar19&theme=tokyonight" width="48%">
 
 ## 🌟 Most Used Weapons
 
