@@ -98,4 +98,3 @@ Let’s connect and explore opportunities to create outstanding digital experien
   <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-## still need to update the project urls....
