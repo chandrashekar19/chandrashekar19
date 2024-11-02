@@ -7,8 +7,6 @@
 
 👯 I’m looking to collaborate on open source/commercial projects
 
-🤔 I’m looking for help with digital marketing to drive traffic to my website
-
 💬 Ask me about **Web Development**
 
 ## My Skills - Technologies I use
@@ -26,7 +24,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekar19&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=chandrashekar19&theme=react-dark)
 
-## Connect with me:
+## Let’s connect and explore opportunities to create outstanding digital experiences together! 🌐✨
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chandrashekar19/)
+[![Email](https://skillicons.dev/icons?i=email)](mailto:kalalshannu19@gmail.com)
+
 
