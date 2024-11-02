@@ -11,8 +11,8 @@
 
 ## My Skills - Technologies I use
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,jest,git,github,vercel,netlify)
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,firebase,heroku,mysql,bootstrap,vscode,bash,figma,threejs,linux)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,git,github,vercel,netlify)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,firebase,heroku,mysql,bootstrap,vscode,bash,figma,linux)
 
 ## 🏆 Github Status
 
@@ -27,6 +27,7 @@
 ## Let’s connect and explore opportunities to create outstanding digital experiences together! 🌐✨
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chandrashekar19/)
-[![Email](https://skillicons.dev/icons?i=email)](mailto:kalalshannu19@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalalshannu19@gmail.com)
+
 
 
