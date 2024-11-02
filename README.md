@@ -35,7 +35,6 @@ Let’s connect and explore opportunities to create outstanding digital experien
 
 Technologies and Tools I use: 
 
-
 ![My Skills](https://skillicons.dev/icons?i=js,html,tailwind,css,react,next,git,github,redux,docker,postman,typescript,materialui,bootstrap,appwrite)
 
 
@@ -60,9 +59,10 @@ Technologies and Tools I use:
 </table>
  </center>
  
- ## Get in Touch : 
--  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrashekar19/)
-- #### 📫 Email   : kalalshannu19@gmail.com
+
+## Connect with me
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chandrashekar19/)
+[![email](https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalalshannu19@gmail.com)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrashekar19&show_icons=true&theme=tokyonight)
