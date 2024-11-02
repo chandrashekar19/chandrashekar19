@@ -36,7 +36,7 @@ Let’s connect and explore opportunities to create outstanding digital experien
 Technologies and Tools I use: 
 
 
-![My Skills](https://skillicons.dev/icons?i=js,tailwind,css,react,next,git,github,redux,docker,postman,typescript,materialui,shadcn,bootstrap,appwrite)
+![My Skills](https://skillicons.dev/icons?i=js,html,tailwind,css,react,next,git,github,redux,docker,postman,typescript,materialui,bootstrap,appwrite)
 
 
  ## My projects: a glimpse 
