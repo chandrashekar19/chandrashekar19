@@ -21,8 +21,11 @@
 
 ## 🌟 Most Used Weapons
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekar19&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=chandrashekar19&theme=react-dark)
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekar19&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" height="200px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandrashekar19&theme=react-dark" alt="GitHub Contribution Graph" height="200px"/>
+</div>
+
 
 ## Let’s connect and explore opportunities and experiences together! 🌐✨
 
