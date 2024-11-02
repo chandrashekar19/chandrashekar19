@@ -65,9 +65,8 @@ Technologies and Tools I use:
 [![email](https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalalshannu19@gmail.com)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekar19&theme=tokyonight)
+| Most Used Languages | GitHub Stats |
+|---------------------|--------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekar19&theme=tokyonight) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrashekar19&show_icons=true&theme=tokyonight) |
 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrashekar19&show_icons=true&theme=tokyonight)
 
