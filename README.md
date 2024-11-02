@@ -21,8 +21,9 @@
 
 ## 🌟 Most Used Weapons
 
-<div style="display: flex; flex-direction: row; gap: 10px;">
+<div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekar19&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" height="200px"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandrashekar19&theme=react-dark" alt="GitHub Contribution Graph" height="200px"/>
 </div>
 
