@@ -67,6 +67,8 @@ Technologies and Tools I use:
 
 | Most Used Languages | GitHub Stats |
 |---------------------|--------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekar19&theme=tokyonight&hide=docker,html,roff) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrashekar19&show_icons=true&theme=tokyonight) |
+|
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekar19&show_icons=true&locale=en&layout=compact)
+ | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrashekar19&show_icons=true&theme=tokyonight) |
 
 
