@@ -1,71 +1,37 @@
 
-<div id="header" align="center">
 
+[![JS Master](https://i.ibb.co/4Y0kfH2/GitHub.png)](https://www.jsmastery.pro)
 
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Welcome+To+my+Github+👨🏽‍💻)](https://git.io/typing-svg) 
-  
-</div>
+# Hi, I'm Chandrashekar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-<div id="header" align="center">
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="150"/>
-  </div>
-</center>
+🔭 I’m currently working as **Software Engineer**
 
-## About me 🙋‍♂️ : 
-🌟 Front-End Developer Crafting Dynamic, User-Centric Web Applications 🌟
+🌱 I’m currently learning **Next.js  and Node js**
 
-With 2 years of front-end development experience, I enjoy turning design ideas and wireframes into interactive and responsive web applications. I’m passionate building good user interfaces.
+👯 I’m looking to collaborate on open source/commercial projects
 
-I love diving into new tools, libraries, and techniques to keep my skills sharp. Whether it's hooking up APIs, fine-tuning performance, or adding little details that make a big difference . 🚀
+🤔 I’m looking for help with digital marketing to drive traffic to my website
 
-Let’s connect and explore opportunities to create outstanding digital experiences together! 🌐✨
- ```javascript
+💬 Ask me about **Web Development**
 
- const I    = {} ; 
-        I.am       = "a Front End Developer" ;
-        I.believe  = "The universe speaks through vibrations; listen closely,
-                       and you'll find your place within its symphony."
-        I.usedTo   = ["walk", "Read", "Run"] ;
-        I.love     = ["Family", "Coding", "My-Laptop", ["Cricket ","Travelling","movies"];
-        I.workWith = ["Good People",["JavaScript", "typescript" "React Js", "Angular",
-                     "Next Js"],["CSS","Tailwindcss","Bootstrap", "Material UI"], "Docker"] ;
+📫 How to reach me: **[Twitter](https://twitter.com/jsmasterypro), [Instagram](https://instagram.com/javascriptmastery)**
 
- ```
+## My Skills - Technologies I use
 
-Technologies and Tools I use: 
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,jest,git,github,vercel,netlify)
+![My Skills](https://skillicons.dev/icons?i=html,css,supabase,sass,firebase,gulp,heroku,mysql,bootstrap,vscode,bash,redis,figma,threejs,linux)
 
-![My Skills](https://skillicons.dev/icons?i=js,html,tailwind,css,react,next,git,github,redux,docker,postman,typescript,materialui,bootstrap,appwrite)
+## 🏆 Github Status
 
+<img  src="https://github-stats-lemon.vercel.app/api?username=adrianhajdin&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=adrianhajdin&theme=tokyonight" width="48%" >
 
- ## My projects: a glimpse 
- <center>
-       <table  style="color:bleu;">
-<tbody>
-<tr style="height: 22px;">
-<!--   <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
-<td style="height: 22px;">HealthCare application</td>
-<td style="height: 22px;">Jobster application</td>
-<td style="height: 22px;">admin dashboard</td>
-<td style="height: 22px;">nike landing page</td>
-</tr>
-<tr style="height: 22px;">
-  <td style="height: 22px;">https://health-care-amber.vercel.app</td>
-  <td style="height: 22px;">https://web-job.netlify.app/landing</td>
-  <td style="height: 22px;">https://features-webapp.netlify.app/</td>
-  <td style="height: 22px;">https://nike-landing-page-eight-plum.vercel.app/</td>
-</tr>
-</tbody>
-</table>
- </center>
- 
+## 🌟 Most Used Weapons
 
-## Connect with me
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chandrashekar19/)&nbsp;&nbsp;
-[![email](https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalalshannu19@gmail.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adrianhajdin&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=adrianhajdin&theme=react-dark)
 
+## Connect with me:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekar19&show_icons=true&theme=tokyonight&locale=en&layout=compact)&nbsp;&nbsp;&nbsp;&nbsp;
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrashekar19&show_icons=true&theme=tokyonight) 
-
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://jsmastery.pro)
 
