@@ -1,6 +1,7 @@
 
 
-[![JS Master](https://i.ibb.co/4Y0kfH2/GitHub.png)](https://www.jsmastery.pro)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandrashekar19)
+
 
 # Hi, I'm Chandrashekar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
@@ -14,8 +15,6 @@
 
 💬 Ask me about **Web Development**
 
-📫 How to reach me: **[Twitter](https://twitter.com/jsmasterypro), [Instagram](https://instagram.com/javascriptmastery)**
-
 ## My Skills - Technologies I use
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,jest,git,github,vercel,netlify)
@@ -23,15 +22,15 @@
 
 ## 🏆 Github Status
 
-<img  src="https://github-stats-lemon.vercel.app/api?username=adrianhajdin&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=adrianhajdin&theme=tokyonight" width="48%" >
+<img  src="https://github-stats-lemon.vercel.app/api?username=chandrashekar19&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=adrianhajdin&theme=tokyonight" width="48%">
 
 ## 🌟 Most Used Weapons
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adrianhajdin&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=adrianhajdin&theme=react-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekar19&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=chandrashekar19&theme=react-dark)
 
 ## Connect with me:
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://jsmastery.pro)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chandrashekar19/)
 
