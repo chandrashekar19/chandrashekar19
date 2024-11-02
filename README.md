@@ -9,8 +9,6 @@
 
 <div id="header" align="center">
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="150"/>
-       </a>
-
   </div>
 </center>
 
@@ -18,20 +16,6 @@
 🌟 Front-End Developer Crafting Dynamic, User-Centric Web Applications 🌟
 
 With 2 years of front-end development experience, I enjoy turning design ideas and wireframes into interactive and responsive web applications. I’m passionate building good user interfaces.
-
-💡 My Tech Stack Includes :
-
-    ⚛️  React JS & Next.js
-
-    🧑‍💻 JavaScript (ES6+) & TypeScript .
-
-    🎨 HTML5 & CSS3
-
-    🌈 Tailwind CSS & Material UI 
-
-    🛠️ Redux Toolkit , Context API and Zustand 
-
-    🔄 Version Control (Git) – Ensuring smooth collaboration and code quality.
 
 I love diving into new tools, libraries, and techniques to keep my skills sharp. Whether it's hooking up APIs, fine-tuning performance, or adding little details that make a big difference . 🚀
 
@@ -54,8 +38,6 @@ Technologies and Tools I use:
 
 ![My Skills](https://skillicons.dev/icons?i=js,tailwind,css,react,next,git,github,redux,Zustand,typescript,materialui,bootstrap,appwrite)
 
-
-### 📺
 
  ## My projects: a glimpse 
  <center>
