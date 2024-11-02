@@ -61,8 +61,13 @@ Technologies and Tools I use:
  
 
 ## Connect with me
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chandrashekar19/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chandrashekar19/)&nbsp;&nbsp;
 [![email](https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalalshannu19@gmail.com)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekar19&theme=tokyonight)
+
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrashekar19&show_icons=true&theme=tokyonight)
+
