@@ -26,7 +26,7 @@
 
 ## Let’s connect and explore opportunities and experiences together! 🌐✨
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chandrashekar19/)&nsp;&nbsp;
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chandrashekar19/)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalalshannu19@gmail.com)
 
 
