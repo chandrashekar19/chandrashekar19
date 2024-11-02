@@ -15,7 +15,7 @@
 </center>
 
 ## About me 🙋‍♂️ : 
-🌟 Front-End Developer | Crafting Dynamic, User-Centric Web Applications 🌟
+🌟 Front-End Developer Crafting Dynamic, User-Centric Web Applications 🌟
 
 With 2 years of front-end development experience, I enjoy turning design ideas and wireframes into interactive and responsive web applications. I’m passionate building good user interfaces.
 
