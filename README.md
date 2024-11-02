@@ -52,7 +52,7 @@ Let’s connect and explore opportunities to create outstanding digital experien
 Technologies and Tools I use: 
 
 
-![My Skills](https://skillicons.dev/icons?i=js,tailwind,react,next,git,github)
+![My Skills](https://skillicons.dev/icons?i=js,tailwind,css,react,next,git,github,redux,zustand,typescript,materialui,booststrap,appwrite)
 
 ## 
 <a href="#"><img align="left" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="26%" style="border-radius: 3(px;" /></a>
