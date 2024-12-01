@@ -9,8 +9,14 @@
 
 ## My Skills - Technologies I use
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,git,github,vercel,netlify)
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,vscode,bash,figma)
+<div class="flex flex-wrap justify-center gap-4">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=materialui,git,github,vercel,netlify,html" alt="My Skills" />
+</div>
+<div class="flex flex-wrap justify-center gap-4 mt-4">
+  <img src="https://skillicons.dev/icons?i=css,bootstrap,vscode,bash,figma" alt="My Skills" />
+</div>
+
 
 ## 🌟 Most Used Weapons
 
