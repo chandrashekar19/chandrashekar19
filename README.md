@@ -10,11 +10,10 @@
 ## My Skills - Technologies I use
 
 <div class="flex flex-wrap justify-center gap-4">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind" alt="My Skills" />
-  <img src="https://skillicons.dev/icons?i=materialui,git,github,vercel,netlify,html" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,git," alt="My Skills" />
 </div>
 <div class="flex flex-wrap justify-center gap-4 mt-4">
-  <img src="https://skillicons.dev/icons?i=css,bootstrap,vscode,bash,figma" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=github,vercel,netlify,html,css,bootstrap,vscode,bash,figma" alt="My Skills" />
 </div>
 
 
