@@ -10,7 +10,7 @@
 ## My Skills - Technologies I use
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,git,github,vercel,netlify)
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,firebase,heroku,mysql,bootstrap,vscode,bash,figma,linux)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,vscode,bash,figma)
 
 ## 🌟 Most Used Weapons
 
