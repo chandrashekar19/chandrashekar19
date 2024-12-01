@@ -12,6 +12,7 @@
 <div class="flex flex-wrap justify-center gap-4">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,git," alt="My Skills" />
 </div>
+<br />
 <div class="flex flex-wrap justify-center gap-4 mt-4">
   <img src="https://skillicons.dev/icons?i=github,vercel,netlify,html,css,bootstrap,vscode,bash,figma" alt="My Skills" />
 </div>
