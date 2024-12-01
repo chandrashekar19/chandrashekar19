@@ -5,8 +5,6 @@
 
 🌱 I’m currently learning **Next.js  and Node js**
 
-👯 I’m looking to collaborate on open source/commercial projects
-
 💬 Ask me about **Web Development**
 
 ## My Skills - Technologies I use
