@@ -1,12 +1,6 @@
 
 # Hi, I'm Chandrashekar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-🔭 I’m currently working as **Software Engineer**
-
-🌱 I’m currently learning **Next.js  and Node js**
-
-💬 Ask me about **Web Development**
-
 ## My Skills - Technologies I use
 
 <div class="flex flex-wrap justify-center gap-4">
