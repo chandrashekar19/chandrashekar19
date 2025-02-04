@@ -23,6 +23,7 @@
 ## Let’s connect and explore opportunities together! 🌐✨
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chandrashekar19/)&nbsp;&nbsp;
+[![portfolio](https://skillicons.dev/icons?i=wordpress)](https://csk-dev.vercel.app/)&nbsp;&nbsp;
 [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:kalalshannu19@gmail.com)
 
 
