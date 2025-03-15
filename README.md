@@ -8,7 +8,7 @@
 </div>
 <br />
 <div class="flex flex-wrap justify-center gap-4 mt-4">
-  <img src="https://skillicons.dev/icons?i=github,vercel,netlify,html,css,bootstrap,vscode,bash,figma" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=github,vercel,netlify,html,css,bootstrap,vscode,figma" alt="My Skills" />
 </div>
 <br />
 <div style="display: flex; flex-direction: row;">
