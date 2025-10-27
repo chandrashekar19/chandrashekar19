@@ -15,13 +15,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekar19&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs"  width="48% height="200px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
-
-## Let’s connect and explore opportunities together! 🌐✨
-
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chandrashekar19/)&nbsp;&nbsp;
-[![portfolio](https://skillicons.dev/icons?i=vercel)](https://csk-dev.vercel.app//)&nbsp;&nbsp;
-[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:kalal.dev@outlook.com)
-
-
-
