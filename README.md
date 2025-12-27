@@ -11,7 +11,3 @@
   <img src="https://skillicons.dev/icons?i=github,vercel,netlify,html,css,bootstrap,vscode,figma" alt="My Skills" />
 </div>
 <br />
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekar19&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs"  width="48% height="200px"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
